@@ -40,8 +40,8 @@ body {
 
   }*/
 
- /* .box_google span.fake {
-    width: 700px;
+/*.box_google span.fake {
+    width: 751px;
     display: inline-block;
   }*/
   
@@ -57,5 +57,9 @@ body {
     flex-grow: 1;
   }
   
+  .fodasi {
+    padding: 10px;
+    float: right;
+  }
   
-
+  
